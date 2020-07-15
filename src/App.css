@@ -1,0 +1,50 @@
+
+  @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body
+{background-color: #E7EFF9
+
+  ;}
+
+  .Home{text-align: center;
+  margin: auto;}
+
+  .Bold{font-size: larger;
+  color: #517b96;}
+  .Error{text-align: center;
+  font-size: 50px;}
+  .About{text-align: center;}
+
+
+  .AboutSasta{color: 	#A80000 ;
+  font-style: oblique;
+font-size: 20px;}
+
+  .AboutHeadings{font-style: italic;
+  font-size: 70px;
+font-weight: 800;}
+
+  .Join{font-size: 50px;}
+
+  .Products{text-align: center;
+  max-width: 100%;}
+
+  .ProductsHeading{font-style: oblique;
+  font-size: 35px;
+font-weight: 800;
+color: #A00000 ;}
+
+.ShoesName{font-size: 30px;
+color: #A80000;}
+.link{color: #A80000;}
+.ShoesDetailsHeading{color: #A80000;}
+
+
+.ShoesDetails{margin: auto;
+text-align: center;
+max-width: 100%;}
+
+.SHOEnAME{
+color:#A80000 ;
+font-style: oblique;}
+
